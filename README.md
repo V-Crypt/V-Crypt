@@ -20,7 +20,7 @@ I'm Jesús Monterrubio, **Computer Science Engineer** & **Front-End Developer** 
 - ♻️ Taking care of the planet.
 - 📖 Reading educational books, as well as love stories and mystery books.
 - 🎷 Playing my EWI Solo (Electronic Wind Instrument) while I'm listening chilled music.
-- 🏋️🏽‍♂️ Doing exercise.
+- 🏋️ Doing exercise.
 
 Also, I'm currently...
 
@@ -36,7 +36,6 @@ Also, I'm currently...
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
-![GitHub](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![VS2022](https://img.icons8.com/color/30/visual-studio.png)
@@ -44,6 +43,7 @@ Also, I'm currently...
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+![GitHub](https://img.icons8.com/material-outlined/30/github.png)
 
 ### MY STATS 📊
 
