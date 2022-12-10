@@ -19,7 +19,7 @@ I'm Jesús Monterrubio, **Computer Science Engineer** & **Front-End Developer** 
 - 👥 Working with a professional team to learn toguether and to reach our goals.
 - ♻️ Taking care of the planet.
 - 📖 Reading educational books, as well as love stories and mystery books.
-- 🎷 Playing my EWI Solo (Electronic Wind Instrument) while I'm listening chilled music.
+- 🎷 Listening chilled music.
 - 🏋️ Doing exercise.
 
 Also, I'm currently...
