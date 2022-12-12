@@ -45,6 +45,12 @@ Also, I'm currently...
 ![Console](https://img.icons8.com/color/30/console.png)
 ![GitHub](https://img.icons8.com/material-outlined/30/github.png)
 
+### MY PROJECT PORTFOLIO 💼
+
+<div align="center">
+  <a href="https://v-crypt.github.io"><img src="https://img.shields.io/badge/-GitHub_Pages-444444?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Pages"></a>
+</div>
+
 ### MY STATS 📊
 
 <details>
