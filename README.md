@@ -48,7 +48,7 @@ Also, I'm currently...
 ### MY PROJECT PORTFOLIO 💼
 
 <div align="center">
-  <a href="https://v-crypt.github.io"><img src="https://img.shields.io/badge/-GitHub_Pages-444444?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Pages"></a>
+  <a href="https://V-Crypt.github.io"><img src="https://img.shields.io/badge/-GitHub_Pages-444444?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Pages"></a>
 </div>
 
 ### MY STATS 📊
