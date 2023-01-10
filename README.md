@@ -9,7 +9,7 @@
 
 I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from México.
 <br>
-**Coding** is what I love the most, as well as...
+**Coding** and **Assist others** is what I love the most, as well as...
 
 - 🧠 Learning about everything.
 - 🗣 Practicing my English to reach a higher level.
