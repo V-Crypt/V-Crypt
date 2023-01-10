@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Jesus+Monterrubio+%F0%9F%98%8E;Front-End+Developer+%F0%9F%92%BB;Please+To+Meet+You!+%F0%9F%99%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Jesus+Monterrubio+%F0%9F%98%8E;Developer+%F0%9F%92%BB;Please+To+Meet+You!+%F0%9F%99%8C">
   <br>
   
   ---
@@ -7,7 +7,7 @@
 
 ### ABOUT ME 👨🏽‍💻 
 
-I'm Jesús Monterrubio, **Computer Science Engineer** & **Front-End Developer** since December, 2022 from México.
+I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from México.
 <br>
 **Coding** is what I love the most, as well as...
 
@@ -25,8 +25,8 @@ I'm Jesús Monterrubio, **Computer Science Engineer** & **Front-End Developer** 
 Also, I'm currently...
 
 - ⚙️ Working on carry out more independent projects to broaden my projects portfolio.
-- 💻 Learning about technologies related to Web Development and Databases. 
-- 🔭 Looking for an entry-level Front-End job.
+- 💻 Learning about technologies related to Programming and Technical Support. 
+- 🔭 Looking for an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
