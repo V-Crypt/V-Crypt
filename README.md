@@ -54,16 +54,11 @@ Also, I'm currently...
 ### MY STATS 📊
 
 <details>
-<table style="text-align:center">
+<table align="center" style="text-align:center">
 <tr>
-<th> ⚡ GitHub </th>
 <th> ⚡ Wakatime </th>
 </tr>
 <tr>
-<td>
-
-[![V-Crypt Github Stats](https://github-readme-stats.vercel.app/api?username=V-Crypt&theme=tokyonight)](https://github.com/V-Crypt/github-readme-stats)
-</td>
 <td>
 
 [![V-Crypt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=V_Crypt&theme=tokyonight&layout=compact&custom_title=Jesús+Monterrubio's+Wakatime+Stats)](https://github.com/V_Crypt/github-readme-stats)
