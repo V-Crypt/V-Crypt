@@ -25,8 +25,8 @@ I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from 
 Also, I'm currently...
 
 - ⚙️ Working on carry out more independent projects to broaden my projects portfolio.
-- 💻 Learning about technologies related to Programming and Technical Support. 
-- 🔭 Looking for an entry-level job.
+- 💻 Learning about technologies related to IT area. 
+- 🔭 Looking for an internship or an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
