@@ -24,8 +24,8 @@ I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from 
 
 Also, I'm currently...
 
-- ⚙️ Working on carry out more independent projects to broaden my projects portfolio.
-- 💻 Learning about technologies related to IT area. 
+- ⚙️ Working on carry out more independent projects to broaden my project portfolio.
+- 💻 Taking courses about Web development (Front-End), Cybersecurity (Pentesting) and Databases (SQL).
 - 🔭 Looking for an internship or an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
@@ -43,7 +43,14 @@ Also, I'm currently...
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
-![GitHub](https://img.icons8.com/material-outlined/30/github.png)
+![GitHub](https://img.icons8.com/color/30/github.png)
+![SQL](https://img.icons8.com/color/30/sql.png)
+![VMWare](https://img.icons8.com/color/30/vmware.png)
+![Microsoft Office](https://img.icons8.com/color/30/microsoft.png)
+![Canva](https://img.icons8.com/color/30/canva.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![Java](https://img.icons8.com/color/30/java.png)
+![MarkDown](https://img.icons8.com/color/30/markdown.png)
 
 ### MY PROJECT PORTFOLIO 💼
 
