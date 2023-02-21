@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Jesus+Monterrubio+%F0%9F%98%8E;A+Developer+%F0%9F%92%BB;Please+To+Meet+You!+%F0%9F%99%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=%23DAA520&size=30&center=true&vCenter=true&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Jesus+Monterrubio+%F0%9F%98%8E;A+Computer+Science+Engineer+%F0%9F%92%BB;Please+To+Meet+You!+%F0%9F%99%8C">
   <br>
   
   ---
@@ -9,7 +9,7 @@
 
 I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from México.
 <br>
-**Coding** and **Assist others** is what I love the most, as well as...
+Living my life **adapting myself to any job and situation** is what I love the most, as well as...
 
 - 🧠 Learning about everything.
 - 🗣 Practicing my English to reach a higher level.
@@ -21,12 +21,11 @@ I'm Jesús Monterrubio, **Computer Science Engineer** since December, 2022 from 
 - 📖 Reading educational books, as well as love stories and mystery books.
 - 🎷 Listening chilled music.
 - 🏋️ Doing exercise.
+- 🏕️ Spending time in nature.
 
 Also, I'm currently...
 
-- ⚙️ Working on carry out more independent projects to broaden my project portfolio.
-- 💻 Taking courses about Web development (Front-End), Cybersecurity (Pentesting) and Databases (SQL).
-- 🔭 Looking for an internship or an entry-level job.
+- 🔭 Looking for an internship or an entry-level job no matter what kind it is, because if I'm interested, I will take it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
