@@ -25,7 +25,7 @@ Living my life **adapting myself to any job and situation** is what I love the m
 
 Also, I'm currently...
 
-- 🔭 Looking for an internship or an entry-level job no matter what kind it is, because if I'm interested, I will take it.
+- 🔭 Looking for an internship or an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
@@ -48,7 +48,7 @@ Also, I'm currently...
 ![Microsoft Office](https://img.icons8.com/color/30/microsoft.png)
 ![Canva](https://img.icons8.com/color/30/canva.png)
 ![Python](https://img.icons8.com/color/30/python.png)
-![Java](https://img.icons8.com/color/30/java.png)
+![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)
 ![MarkDown](https://img.icons8.com/color/30/markdown.png)
 
 ### MY PROJECT PORTFOLIO 💼
