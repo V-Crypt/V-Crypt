@@ -7,7 +7,7 @@
 
 ### ABOUT ME 👨🏽‍💻 
 
-I'm Jesus Monterrubio, a **Computer Science Engineer** since December, 2022 from México.
+I'm Jesus Monterrubio, a **Computer Science Engineer** since December, 2022 from Mexico.
 <br>
 Living my life **working smart, not hard** is what I love the most, as well as...
 
