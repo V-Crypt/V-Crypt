@@ -24,31 +24,34 @@ Living my life **working smart, not hard** is what I love the most, as well as..
 
 Also, I'm currently...
 
-- 🔭 Looking for an internship or an entry-level job.
+- 🔭 Looking for an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
 ### TECHNOLOGIES AND TOOLS I'VE USE 🛠
 
-![Python](https://img.icons8.com/color/30/python.png)
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![GitHub](https://img.icons8.com/color/30/github.png)
-![Canva](https://img.icons8.com/color/30/canva.png)
-![Microsoft Office](https://img.icons8.com/color/30/microsoft.png)
-![VMWare](https://img.icons8.com/color/30/vmware.png)
-![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
-![Console](https://img.icons8.com/color/30/console.png)
+![Python](https://img.icons8.com/color/30/python.png)
 ![SQL](https://img.icons8.com/color/30/sql.png)
-![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)
-![MarkDown](https://img.icons8.com/color/30/markdown.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![ExpressJS](https://img.icons8.com/color/30/express-js.png)
+![WordPress](https://img.icons8.com/color/30/wordpress.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![VS2022](https://img.icons8.com/color/30/visual-studio.png)
+![Console](https://img.icons8.com/color/30/console.png)
+![Metasploit](https://img.icons8.com/color/30/metasploit.png)
+![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
+![VMWare](https://img.icons8.com/color/30/vmware.png)
+![Canva](https://img.icons8.com/color/30/canva.png)
+![Figma](https://img.icons8.com/color/30/figma.png)
+![MarkDown](https://img.icons8.com/color/30/markdown.png)
+![Microsoft Office](https://img.icons8.com/color/30/microsoft.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Git](https://img.icons8.com/color/30/git.png)
 
 ### MY PROJECT PORTFOLIO 💼
 
