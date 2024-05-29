@@ -11,7 +11,7 @@ I'm Jesus Monterrubio, a **Computer Science Engineer** since December, 2022 from
 <br>
 Living my life **working smart, not hard** is what I love the most, as well as...
 
-- 🧠 Learning about everything I'm interested in.
+- 🧠 Learning about both business and tech fields.
 - 🗣 Practicing my English to reach a higher level.
 - 🗂️ Being well organized. 
 - ⌨️ Being updated to use the best technologies and to apply the best practices.
@@ -24,7 +24,7 @@ Living my life **working smart, not hard** is what I love the most, as well as..
 
 Also, I'm currently...
 
-- 🔭 Looking for an entry-level job.
+- 🔭 Looking for a trainee position or an entry-level job.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=v-crypt)
 
